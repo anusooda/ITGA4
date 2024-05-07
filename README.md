@@ -1,1 +1,5 @@
 # Knocking down gene expression: RNase H-mediated vs splice modulation of ITGA4 
+Antisense oligonucleotides are an emerging class of therapeutics that exert their effect via Watson-Crick base pairing to target mRNA and alter gene expressions. In this study, we compared the efficacy of steric blocking antisense oligonucleotides with an RNase H-dependent drug, ATL1102, at reducing integrin alpha 4 gene and protein expression. We synthesized our steric blocking antisense oligonucleotides with various chemical modifications to identify the most potent and safest candidate. Protein analysis was conducted using western blotting and flow cytometry. Additionally, we assessed changes in the global transcriptome by conducting bulk RNA sequencing of Jurkat cells treated with various nucleotide modifications, including 2'-O-methoxyethyl modified nucleotides (MOE), phosphorodiamidate morpholino oligomers (PMOs), thiomorpholinos (TMOs), and Gapmer.
+
+![image](https://github.com/anusooda/Bulk-RNASeq-analysis-of-Jurkat-cells-treated-with-antisense-oligonucleotides-/assets/168834184/fd2b688d-f392-4916-b0fc-6e7f1168eedb)
+

@@ -1,1 +1,1 @@
-# Bulk-RNASeq-analysis-of-Jurkat-cells-treated-with-antisense-oligonucleotides-
+# Knocking down gene expression: RNase H-mediated vs splice modulation of ITGA4 
